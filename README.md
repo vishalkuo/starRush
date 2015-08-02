@@ -1,11 +1,10 @@
-StarRush
-========
+# StarRush
 
-Source code to my first iOS application. 
+## About
+Star Rush is an arcade style shooter developed for iOS versions 7 and up. This was my culminating project for my grade 12 Computer Engineering Class.
 
+## Dates
+February 2014 - August 2014
 
-Star Rush: Prologue is my first iOS application and a showcasing of my knowledge in Objective-C.
-
-This project took over 3 months to complete including learning syntax and App Store approval. Changes are still ongoing; 
-however, this project was intended as an introduction to developing for the App Store. Future projects wil be released 
-soon.
+## Links
+* https://itunes.apple.com/us/app/star-rush-prologue/id888866305?mt=8
